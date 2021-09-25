@@ -45,7 +45,7 @@ body {
 .calculater span.cleare {
     grid-column: span 2;
     width: 120px;
-    background: #99ff66;
+    background: #ff0000;
 }
 
 .calculater span.pluse {
